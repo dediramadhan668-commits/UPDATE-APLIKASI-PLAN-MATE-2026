@@ -1,4 +1,4 @@
-# 📅 Plan Mate - Productivity Redefined
+#  Plan Mate - Productivity Redefined
 
 <p align="center">
   <img src="Thumb.png" alt="Plan Mate Banner" width="100%">
@@ -14,12 +14,12 @@
 
 ---
 
-## 📌 Tentang Plan Mate
+##  Tentang Plan Mate
 **Plan Mate** adalah solusi cerdas manajemen waktu yang dirancang untuk membantu pengguna mengoptimalkan produktivitas harian. Memadukan antarmuka yang bersih dengan teknologi kecerdasan buatan (AI), aplikasi ini memastikan setiap agenda dan tenggat waktu dapat dikelola dengan efisien, tanpa mengorbankan estetika visual.
 
 ---
 
-## ✨ Fitur Utama & Integrasi Cerdas (AI)
+##  Fitur Utama & Integrasi Cerdas (AI)
 
 Aplikasi ini dirancang dengan alur kerja yang intuitif dan terbagi ke dalam 4 layar utama, dilengkapi dengan fungsionalitas cerdas:
 
@@ -30,7 +30,7 @@ Aplikasi ini dirancang dengan alur kerja yang intuitif dan terbagi ke dalam 4 la
 
 ---
 
-## 🛠️ Tech Stack & Alat Pengembangan
+##  Tech Stack & Alat Pengembangan
 Proyek ini dikembangkan dalam lingkungan sistem operasi **Linux (Pop!_OS)** untuk memastikan stabilitas komputasi selama *build* aplikasi.
 
 * **Framework & Bahasa:** Flutter / Dart
@@ -47,7 +47,7 @@ Proyek ini dikembangkan dalam lingkungan sistem operasi **Linux (Pop!_OS)** untu
 
 ---
 
-## 👤 Identitas Pengembang
+##  Identitas Pengembang
 * **Nama:** Dedi Ramadhan
 * **Kelas:** TI.24.A.4
 * **NIM:** 312410171
@@ -56,7 +56,7 @@ Proyek ini dikembangkan dalam lingkungan sistem operasi **Linux (Pop!_OS)** untu
 
 ---
 
-## ✉️ Catatan Khusus & Disclaimer (Pesan untuk Dosen)
+##  Catatan Khusus & Disclaimer (Pesan untuk Dosen)
 
 > **Yth. Bapak Donny Maulana, S.Kom., M.M.S.I.**
 >
@@ -73,5 +73,5 @@ Proyek ini dikembangkan dalam lingkungan sistem operasi **Linux (Pop!_OS)** untu
 ---
 
 <p align="center">
-  <b>Plan Mate Project © 2026 | Dibuat dengan ☕ dan Flutter</b>
+  <b>Plan Mate Project © 2026 | Dibuat dengan Flutter</b>
 </p>
