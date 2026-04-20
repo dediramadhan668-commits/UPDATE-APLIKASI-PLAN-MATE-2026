@@ -40,7 +40,7 @@ Proyek ini dikembangkan dalam lingkungan sistem operasi **Linux (Pop!_OS)** untu
 
 ---
 
-## 📸 Dokumentasi Antarmuka (1600 x 900 px)
+##  Dokumentasi Antarmuka 
 | Splash Screen | Smart Dashboard | Tambah Jadwal (AI) | Intelligent Reminder |
 |:---:|:---:|:---:|:---:|
 | <img src="Layer1.png" width="200" alt="Splash Screen"> | <img src="Layer2.png" width="200" alt="Home Screen"> | <img src="Layer3.png" width="200" alt="Add Schedule"> | <img src="Layer4.png" width="200" alt="Reminder"> |
