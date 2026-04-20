@@ -64,7 +64,7 @@ Pengembangan aplikasi ini mengimplementasikan adaptasi lingkungan kerja baru men
 >
 > Menjelang batas waktu pengumpulan tugas, perangkat komputer utama saya mengalami kendala teknis fatal yang mengakibatkan hilangnya *source code* awal proyek ini. Situasi *force majeure* ini memaksa saya untuk melakukan migrasi mendadak ke perangkat cadangan dan beradaptasi penuh menggunakan sistem operasi **Linux Pop!_OS**. 
 >
-> Proses adaptasi terhadap ekosistem Linux—mulai dari konfigurasi ulang dependensi Flutter, pengaturan *Android toolchain*, hingga penyesuaian alur kerja di *terminal*—membutuhkan waktu pembelajaran tersendiri. Berbekal *backup* kerangka desain (Canva/Wireframe) yang berhasil diselamatkan dan diskusi teknis dengan rekan sebaya, saya mengupayakan pemulihan proyek ini dari awal.
+> Proses adaptasi terhadap ekosistem Linux mulai dari konfigurasi ulang dependensi Flutter, pengaturan *Android toolchain*, hingga penyesuaian alur kerja di *terminal* membutuhkan waktu pembelajaran tersendiri. Berbekal *backup* kerangka desain (Canva/Wireframe) yang berhasil diselamatkan dan diskusi teknis dengan rekan sebaya, saya mengupayakan pemulihan proyek ini dari awal.
 >
 > Oleh karena itu, seluruh log pengerjaan (*commit*) di Android Studio/VS Code maupun riwayat tugas di **ClickUp** tercatat dalam rentang waktu yang sangat padat (hari ini) pasca-migrasi sistem. Saya berharap Bapak dapat memaklumi kondisi teknis ini sebagai bentuk dedikasi dan tanggung jawab saya untuk tetap menyerahkan hasil terbaik sesuai tenggat waktu yang ditentukan.
 >
