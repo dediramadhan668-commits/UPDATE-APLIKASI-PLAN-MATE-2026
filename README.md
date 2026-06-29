@@ -62,7 +62,7 @@ Pengembangan aplikasi ini mengimplementasikan adaptasi lingkungan kerja baru men
 
 > Melalui catatan ini, saya memohon maaf sekaligus memberikan klarifikasi terkait riwayat repositori (*commit log*) serta perubahan lingkungan pengembangan pada proyek Plan Mate.
 >
-> Menjelang batas waktu pengumpulan tugas, perangkat komputer utama saya mengalami kendala teknis fatal yang mengakibatkan hilangnya *source code* awal proyek ini. Situasi *force majeure* ini memaksa saya untuk melakukan migrasi mendadak ke perangkat cadangan dan beradaptasi penuh menggunakan sistem operasi **Linux Pop!_OS**. 
+> Menjelang batas waktu pengumpulan tugas, perangkat komputer utama saya mengalami kendala teknis fatal yang mengakibatkan hilangnya *source code* awal proyek ini. Situasi *force majeure* ini memaksa saya untuk melakukan migrasi mendadak ke perangkat cadangan dan beradaptasi penuh menggunakan sistem operasi **Linux Cachy_OS**. 
 >
 > Proses adaptasi terhadap ekosistem Linux mulai dari konfigurasi ulang dependensi Flutter, pengaturan *Android toolchain*, hingga penyesuaian alur kerja di *terminal* membutuhkan waktu pembelajaran tersendiri. Berbekal *backup* kerangka desain (Canva/Wireframe) yang berhasil diselamatkan dan diskusi teknis dengan rekan sebaya, saya mengupayakan pemulihan proyek ini dari awal.
 >
